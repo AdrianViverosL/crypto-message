@@ -1,2 +1,2 @@
 # crypto-message
-The following project is about encryptions and des encryptions using JavaScript with HTML. 
+The following project encrypts and des encrypts messages using JavaScript with HTML. 
